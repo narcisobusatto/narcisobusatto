@@ -1,6 +1,6 @@
 Hello!! 👋
 
-I'm Narciso Busatto. I have a degree in Communication Network Engineering from the UnB (Universidade de Brasília). I have experience in Cryptography, Data Security, Machine Learning, AI, Data Mining and Programming in general.
+I'm Narciso Busatto. I have a degree in Communication Network Engineering from the UnB (University of Brasília). I have experience in Machine Learning, AI, Data Mining and Programming in general.
 
 <hr>
 
