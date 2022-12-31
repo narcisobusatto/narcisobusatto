@@ -37,7 +37,7 @@ I'm Narciso Busatto. I have a degree in Communication Network Engineering from t
 
 # Contact me:
 
-[<img align="left" alt="Narciso | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Narciso | LinkedIn" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" />][linkedin]
 
 <br>
 
